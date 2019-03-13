@@ -1,0 +1,15 @@
+{
+  "name": "pm-speech-scraper",
+  "version": "1.0.0",
+  "description": "Speech Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hari Veturi",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "puppeteer": "^1.11.0"
+  }
+}
